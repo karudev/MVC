@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+          "symfony/http-kernel": "~2.7",
+          "symfony/routing" : "~2.7",
+          "symfony/class-loader" :"~2.7",
+        "twig/twig": "~1.0"
+    }
+   
+}
